@@ -1,0 +1,1 @@
+Back de  app de delivery de restaurantes, no primeiro momento é adicionado os restaurantes e suas funçoes, por exemplo: categoria do restaurante, nome e se está ativo ou não. 
